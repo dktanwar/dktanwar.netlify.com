@@ -47,34 +47,18 @@ subtitle = ""
  css_class = "mini"
 +++
 
+Coming from an Army background, I had priviledge to live across India (Dibrugarh, Jammu, Lucknow, Pune, Agartala, Chandigarh, Jaipur). I have grown up learning different languages and cultures. I was always interested in the interface of biology and computer science, and then I discovered Bioiformatics. I enjoy being a bioinformatician, playing around with genetic code using computer.
 
+I was always amazed by the research done in Germany, which landed me there for my bachelors thesis. During my thesis, I analyzed Microarray data from Sepsis paitents. Being new to programming in R, applying statistics, and genomics data, everthing was too challenging for me. But, it developed a strong interest in me for analyzing and interpreting biological data.
 
-I have lived in northeast Ohio for over 25 years and have long had an interest
-in computers and programming, starting with writing programs in BASIC on our
-family's IBM PS/1. I have also long had an interest in biology, particularly
-genetics. Combining my two interests led me to pursue bioinformatics and a job
-as a Program Analyst at the the Cleveland Clinic.
+After finishing my bachelors thesis, I started looking for a job, and found one at the University of Alabama at Birmingham, USA. While ay UAB, I became an avid user of the statistical programming language R, using it to process, visualize, model and report our data. I also started contributing to open source packages on GitHub.
 
+I started building my interest in epigenetics and sounded an interesting topic for research. To work in epigenetics and to pursue my further education, Master, I moved to Montréal, Canada. There, I worked on building an interactive ChIP-Seq data analysis platform.
 
-My [research at CCF](http://orcid.org/0000-0002-2739-7082) focused
-on using high-throughput sequencing to study a variety of issues, such as
-maternal obesity in mice, microbial populations in the Cuyahoga river, and
-Plasmodium Vivax malaria.
-
-While at the Cleveland Clinic, I became an avid user of the statistical
-programming language R, using it to process, visualize, model and report our
-data. I also began writing R packages and contributing to open source packages
-on GitHub. I enjoyed working with open source software and being part of the R
-community, so looked for opportunities that allowed me to continue to do so,
-which eventually landed me at RStudio.
-
-Since joining RStudio I have given a number of [talks and workshops](/talks) about R and R
-packages, which has allowed my to travel to Europe and Australia, as well as
-throughout the United States.
+After my Masters, I moved to Zürich, Switzerland to pursue my PhD at ETH Zürich. Here, I am working with several datasets from a number of *omics techniques. Also, I am developing tools to analyze short RNA-Seq data and working on benchmarking tools for methylation data analysis.
 
 <img src="jim-kangaroo.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:60%;height:60%;">
 
-In my free time, I love spending time with my family, my two daughters and my
-dog.
+In my free time, I work for myself, roam around Switzerland, listen to songs, and watch movies. Also, I love cooking, as much as I love food!
 
-You can follow my current work [on GitHub] (https://github.com/jimhester).
+You can follow me [on twitter](https://twitter.com/d_k_tanwar) and my current work [on GitHub](https://github.com/dktanwar).

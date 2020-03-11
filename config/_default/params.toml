@@ -12,13 +12,13 @@ day_night = false
 font = "jim"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Jim Hester where I blog about data science and programming in R."
+description = "Personal website of Deepak Tanwar where I blog about Bioinformatics."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "jimhester_"
+twitter = "d_k_tanwar"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jim.hester@rstudio.com"
+email = "deepak.tanwar@sib.swiss"
 phone = ""
 address = ""
 
@@ -63,8 +63,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jimhester_"},
-  {icon = "github", icon_pack = "fab", name = "Follow Me", link = "https://github.com/jimhester"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/d_k_tanwar"},
+  {icon = "github", icon_pack = "fab", name = "Follow Me", link = "https://github.com/dktanwar"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "discourse", icon_pack = "fab", name = "Discuss on RStudio Community", link = "https://community.rstudio.com/"},
